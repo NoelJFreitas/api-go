@@ -1,0 +1,12 @@
+.env
+.exe
+.exe~
+.dll
+.so
+.dylib
+
+# Test binary, built with `go teste -c ` 
+*.test
+
+# Output of the go coverege tool, specificaclly whe
+*.out
